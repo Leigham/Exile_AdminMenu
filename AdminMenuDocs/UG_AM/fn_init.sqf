@@ -1,1 +1,1 @@
-execvm "compiles.sqf";
+execvm "\UG_AM\Compiles.sqf";
