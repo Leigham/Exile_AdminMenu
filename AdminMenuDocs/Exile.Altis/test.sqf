@@ -1,0 +1,1 @@
+player addAction ["<t color='#0066FF'> KeyMaker</t>",Call Exile_AdminShowSpawnDialog,"", 5, true, true, "",""];

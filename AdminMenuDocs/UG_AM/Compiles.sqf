@@ -1,0 +1,12 @@
+Exile_AdminGetItemList = compile preprocessfile "functions\Exile_AdminGetItemList.sqf";
+Exile_AdminGetItemDetails = compile preprocessfile "functions\Exile_AdminGetItemDetails.sqf";
+Exile_AdminGetVicClassname = compile preprocessfile "functions\Exile_AdminGetVicClassname.sqf";
+Exile_AdminGetVehiclePicture = compile preprocessfile "functions\Exile_AdminGetVehiclePicture.sqf";
+Exile_AdminGetBackpackPicture = compile preprocessfile "functions\Exile_AdminGetBackpackPicture.sqf";
+Exile_AdminGetHeadgearPicture = compile preprocessfile "functions\Exile_AdminGetHeadgearPicture.sqf";
+Exile_AdminSpawnonSelf = compile preprocessfile "functions\Exile_AdminSpawnonSelf.sqf";
+Exile_AdminSpawnCreateHolder = compile preprocessfile "functions\Exile_AdminSpawnCreateHolder.sqf";
+_nil = execVM "functions\Exile_AdminGetItemInfo.sqf";
+Exile_AdminShowSpawnDialog = compile preprocessfile "functions\Exile_AdminShowSpawnDialog.sqf";
+Exile_AdminSpawnOnLoad = compile preprocessfile "SpawnOnload.sqf";
+diag_log "FUNCTIONS LOADED";

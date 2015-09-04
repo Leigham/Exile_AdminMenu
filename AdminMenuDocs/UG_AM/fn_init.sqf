@@ -1,0 +1,1 @@
+execvm "compiles.sqf";

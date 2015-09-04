@@ -1,0 +1,1 @@
+execvm "test.sqf";
