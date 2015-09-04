@@ -1,0 +1,1 @@
+Exile_AdminShowSpawnDialog = compile preprocessfile "MissionAdminFunctions\ShowSpawnDialog.sqf";

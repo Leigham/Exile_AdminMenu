@@ -1,7 +1,7 @@
 class KeyMakerLega {
 	idd = 7450;
 	movingEnable = true;
-	onLoad = "_this ExecVM 'onload.sqf'";
+	onLoad = "_this ExecVM 'spawnonload.sqf'";
 	class controlsBackground {
 class Exile_Spawn_AdminControlsBack: ExileAdmin_IGUIBACK
 {
